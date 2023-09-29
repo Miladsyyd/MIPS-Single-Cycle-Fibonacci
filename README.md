@@ -12,13 +12,4 @@ This project implements a single cycle MIPS processor using VHDL. The primary ap
 
 ## Requirements
 
-- FPGA development platform or VHDL simulator.
-- Basic understanding of VHDL and MIPS architecture.
-
-## Usage
-
-1. **Cloning the repository**
-
-   ```bash
-   git clone <repository_url>
-# MIPS-Single-Cycle-Fibonacci
+- Modelsim or VHDL simulator.
