@@ -1,0 +1,114 @@
+C:/Users/AmirHossein/Documents/VHDL/mips/main.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/AmirHossein/Documents/VHDL/mips/main.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity main
+-- Compiling architecture beh of main
+
+} {} {}} C:/Users/AmirHossein/Documents/VHDL/mips/adder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\AmirHossein\Documents\VHDL\mips\adder.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity adder
+-- Compiling architecture beh of adder
+
+} {} {}} C:/Users/AmirHossein/Documents/VHDL/mips/registers.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/AmirHossein/Documents/VHDL/mips/registers.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity registers
+-- Compiling architecture beh of registers
+
+} {} {}} C:/Users/AmirHossein/Documents/VHDL/mips/sign_extend.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/AmirHossein/Documents/VHDL/mips/sign_extend.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sign_extend
+-- Compiling architecture beh of sign_extend
+
+} {} {}} C:/Users/AmirHossein/Documents/VHDL/mips/memory.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/AmirHossein/Documents/VHDL/mips/memory.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memory
+-- Compiling architecture behavioral of memory
+
+} {} {}} C:/Users/AmirHossein/Documents/VHDL/mips/alu_control.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/AmirHossein/Documents/VHDL/mips/alu_control.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity alu_control
+-- Compiling architecture beh of alu_control
+
+} {} {}} C:/Users/AmirHossein/Documents/VHDL/mips/instruction_memory.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/AmirHossein/Documents/VHDL/mips/instruction_memory.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity instruction_memory
+-- Compiling architecture behavioral of instruction_memory
+
+} {} {}} C:/Users/AmirHossein/Documents/VHDL/mips/shifter.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/AmirHossein/Documents/VHDL/mips/shifter.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity shifter
+-- Compiling architecture beh of shifter
+
+} {} {}} C:/Users/AmirHossein/Documents/VHDL/mips/control.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/AmirHossein/Documents/VHDL/mips/control.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity control
+-- Compiling architecture beh of control
+
+} {} {}} C:/Users/AmirHossein/Documents/VHDL/mips/alu.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/AmirHossein/Documents/VHDL/mips/alu.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity alu
+-- Compiling architecture beh of alu
+
+} {} {}} C:/Users/AmirHossein/Documents/VHDL/mips/mux.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/AmirHossein/Documents/VHDL/mips/mux.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mux
+-- Compiling architecture beh of mux
+
+} {} {}} C:/Users/AmirHossein/Documents/VHDL/mips/pc.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/AmirHossein/Documents/VHDL/mips/pc.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity pc
+-- Compiling architecture beh of pc
+
+} {} {}}
