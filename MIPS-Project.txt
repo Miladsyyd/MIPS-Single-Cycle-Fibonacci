@@ -1,0 +1,22 @@
+MIPS Single Cycle Processor in VHDL: Fibonacci Sequence Generator
+
+Objective:
+
+Design a VHDL module for a MIPS single cycle processor that computes the Fibonacci sequence.
+
+Background:
+
+In a single-cycle MIPS CPU, each instruction is executed in just one cycle of the clock. While this makes it simple to design, it may not be the most efficient design for more complex instructions. Here, the focus is on designing the core components in VHDL for generating the Fibonacci sequence.
+
+Overview:
+
+    MIPS Architecture Components in VHDL:
+        Instruction Memory
+        Data Memory
+        ALU (Arithmetic Logic Unit)
+        Register File and so on...
+
+    Fibonacci Generation Algorithm:
+        Using the MIPS assembly for Fibonacci sequence generation, translate the instructions into binary format.
+        Feed these instructions to the instruction memory.
+        Fetch and execute the instructions on the MIPS processor.
